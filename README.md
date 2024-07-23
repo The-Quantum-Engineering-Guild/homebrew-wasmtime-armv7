@@ -1,2 +1,2 @@
-# homebrew-wasmtime-armv7
-Hombrew (tentative) tap for the wasmtime interface built for armv7 architecture
+# homebrew-wasmtime-armv7-musl
+Repo for the (tentative) automated build of wasmtime for the armv7 musl based proot-distro distros
